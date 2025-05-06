@@ -1,14 +1,22 @@
 {
-  "name": "review",
+  "name": "rice-main",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "dead-server --host=localhost --port=5509",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatrix32/rice-main.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beatrix32/rice-main/issues"
+  },
+  "homepage": "https://github.com/Beatrix32/rice-main#readme",
   "description": "",
   "devDependencies": {
     "dead-server": "^1.0.9"
